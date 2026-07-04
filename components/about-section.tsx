@@ -233,7 +233,7 @@ export function AboutSection() {
                   <div className="text-center">
                     <div className="w-92 h-100 rounded-full bg-gradient-to-br from-[#00F5FF] to-[#7B2FFF] mx-auto mb-4 flex items-center justify-center">
                       <img 
-        src="dheeraj.png" // अपनी फोटो का सही पाथ (path) यहाँ डालें
+        src="dp__pf.png" // अपनी फोटो का सही पाथ (path) यहाँ डालें
         alt="Dheeraj Prajapat" 
         className="w-full h-full object-cover rounded-full"
       />
